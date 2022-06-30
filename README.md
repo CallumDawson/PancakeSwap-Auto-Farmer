@@ -4,6 +4,8 @@ A layered and automated liquidity management system focused on DeFi risk managem
 ## Strategy
 The idea is that you place all of the initial capital into Layer 1, but each day it slowly trickles down into Layer 2 and then into Layer 3, meanwhile Layer 1 is also continually growing. You only gain underlying assets, without any trading.
 
+![Strategy](Strategy.png)
+
 ## Layers
 * **Layer 1 (Farm)**: Put your initial capital into a [farm](https://pancakeswap.finance/farms) offering a high yield.
 * **Layer 2 (Staking)**: The CAKEs that you harvest from Layer 1 are automatically invested into a [pool](https://pancakeswap.finance/pools), which secures the capital in CAKE without any risk of impermanent loss or holding low-cap tokens.
