@@ -1,4 +1,4 @@
-# Farmhand
+# PancakeSwap Auto Farmer ("Farmhand")
 A layered and automated liquidity management system focused on DeFi risk management and diversification, specifically for the decentralised exchange (DEX) known as [PancakeSwap](https://pancakeswap.finance/). This project does **NOT** in any way guarantee to make you profit - use at your own risk!
 
 ## Strategy
